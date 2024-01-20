@@ -1,5 +1,6 @@
 # Gabriel-Pereira
 
+
 ### Languages
 
 <p float="left">
@@ -75,3 +76,9 @@
   <img width="48" src=".github/simple-icons/epicgames.svg" title="Epic Games" />
   <img width="48" src=".github/simple-icons/spotify.svg" title="Spotify" />
 </p>
+
+### Status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltcholoko&show_icons=true&theme=vision-friendly-dark)](https://github.com/gabrieltcholoko/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltcholoko&hide_progress=true&show_icons=true&theme=vision-friendly-dark)
+
