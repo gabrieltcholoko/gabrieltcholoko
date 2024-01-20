@@ -79,6 +79,6 @@
 
 ### Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltcholoko&show_icons=true&theme=vision-friendly-dark&rank_icon=github)](https://github.com/gabrieltcholoko/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltcholoko&show_icons=true&theme=vision-friendly-dark&rank_icon=github)](https://github.com/gabrieltcholoko/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltcholoko&hide_progress=true&show_icons=true&theme=vision-friendly-dark)
 
